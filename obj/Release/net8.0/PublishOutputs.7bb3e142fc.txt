@@ -1,0 +1,7 @@
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\Teste Calculadora.exe
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\Teste Calculadora.dll
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\Teste Calculadora.deps.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\Teste Calculadora.runtimeconfig.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\publish\Teste Calculadora.pdb

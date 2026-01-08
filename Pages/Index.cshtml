@@ -111,7 +111,10 @@
                             </td>
                             <td class="p-2">@c.ValorB.ToString("N2")</td>
                             <td class="p-2 font-bold text-emerald-600">@c.Resultado.ToString("N2")</td>
-                            <td class="p-2 text-[0.7rem] text-slate-500">@c.DataCalculo.ToString("dd/MM HH:mm")</td>
+                            <td class="p-2 text-[0.7rem] text-slate-500">
+                                @c.DataCalculo.ToString("dd/MM/yyyy HH:mm")
+                            </td>
+
                             <td class="p-2 text-center">
                                 <form method="post" asp-page-handler="Delete" class="inline">
                                     <input type="hidden" name="id" value="@c.Id" />

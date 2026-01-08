@@ -1,0 +1,33 @@
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\appsettings.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.staticwebassets.runtime.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.staticwebassets.endpoints.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.exe
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.deps.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.runtimeconfig.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.dll
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\bin\Release\net8.0\Teste Calculadora.pdb
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.AssemblyInfoInputs.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.AssemblyInfo.cs
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.RazorAssemblyInfo.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.RazorAssemblyInfo.cs
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.sourcelink.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\rjimswa.dswa.cache.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\scopedcss\bundle\Teste Calculadora.styles.css
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\scopedcss\projectbundle\Teste Calculadora.bundle.scp.css
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\staticwebassets.build.json.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.dll
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\refint\Teste Calculadora.dll
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.pdb
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\Teste Calculadora.genruntimeconfig.cache
+C:\Users\Lais\source\repos\Teste Calculadora\Teste Calculadora\obj\Release\net8.0\ref\Teste Calculadora.dll
