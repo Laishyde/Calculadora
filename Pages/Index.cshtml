@@ -137,13 +137,27 @@
             </div>
         }
     </div>
-@if (Model.MostrarModal && Model.Calculos.Any())
+@if (!ViewData.ModelState.IsValid)
 {
-    var ultimo = Model.Calculos.Last();
-        <div id="feedbackModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/50 opacity-0 pointer-events-none transition duration-300">
-            <div class="bg-white rounded-3xl shadow-2xl p-6 max-w-sm w-full text-center transform scale-95 transition-transform duration-300">
-                <div class="text-4xl mb-3">✅</div>
-                <h3 class="font-bold text-lg mb-2">Dados armazenados com sucesso</h3>
+        <div id="errorModal" class="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
+            <div class="bg-white rounded-3xl shadow-2xl p-6 max-w-sm w-full text-center">
+                <div class="text-4xl mb-3">❌</div>
+
+                <h3 class="font-bold text-lg mb-2 text-red-600">
+                    Erro na operação
+                </h3>
+
+                <ul class="text-sm text-gray-700 mb-4 space-y-1">
+                    @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                    {
+                        <li>• @error.ErrorMessage</li>
+                    }
+                </ul>
+
+                <button onclick="document.getElementById('errorModal').remove()"
+                        class="mt-2 px-4 py-2 bg-red-500 text-white rounded-xl hover:bg-red-600 transition">
+                    Fechar
+                </button>
             </div>
         </div>
 }
