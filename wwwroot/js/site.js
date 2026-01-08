@@ -49,3 +49,18 @@
         }, 3000);
     }
 });
+document.addEventListener("DOMContentLoaded", function () {
+
+    const errorModal = document.getElementById('errorModal');
+    if (!errorModal) return;
+
+    setTimeout(() => {
+        // Apenas resetar os valores
+        const valorA = document.querySelector('input[name="ValorA"]');
+        const valorB = document.querySelector('input[name="ValorB"]');
+
+        if (valorA) valorA.value = '';
+        if (valorB) valorB.value = '';
+    }, 3000);
+
+});
